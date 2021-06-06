@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+      <class name="com.aamirsuhail.LibraryRegressionTests">
+        <test-method status="PASS" signature="libraryRegressionTestFive()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestFive" duration-ms="15" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestFive -->
+        <test-method status="PASS" signature="libraryRegressionTestFour()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestFour" duration-ms="0" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestFour -->
+        <test-method status="PASS" signature="libraryRegressionTestOne()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestOne" duration-ms="0" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestOne -->
+        <test-method status="PASS" signature="libraryRegressionTestThree()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestThree" duration-ms="0" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestThree -->
+        <test-method status="PASS" signature="libraryRegressionTestSix()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestSix" duration-ms="0" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestSix -->
+        <test-method status="PASS" signature="libraryRegressionTestTwo()[pri:0, instance:com.aamirsuhail.LibraryRegressionTests@72b6cbcc]" name="libraryRegressionTestTwo" duration-ms="0" started-at="2021-06-05T12:41:55 IST" finished-at="2021-06-05T12:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- libraryRegressionTestTwo -->
+      </class> <!-- com.aamirsuhail.LibraryRegressionTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

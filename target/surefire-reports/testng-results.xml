@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+      <class name="com.aamirsuhail.EmployeeSmokeTests">
+        <test-method status="PASS" signature="employeeSmokeTestFive()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestFive" duration-ms="7" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestFive -->
+        <test-method status="PASS" signature="employeeSmokeTestFour()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestFour" duration-ms="1" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestFour -->
+        <test-method status="PASS" signature="employeeSmokeTestSix()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestSix" duration-ms="1" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestSix -->
+        <test-method status="PASS" signature="employeeSmokeTestOne()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestOne" duration-ms="0" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestOne -->
+        <test-method status="PASS" signature="employeeSmokeTestThree()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestThree" duration-ms="0" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestThree -->
+        <test-method status="PASS" signature="employeeSmokeTestTwo()[pri:0, instance:com.aamirsuhail.EmployeeSmokeTests@3159c4b8]" name="employeeSmokeTestTwo" duration-ms="0" started-at="2021-06-06T20:33:16 IST" finished-at="2021-06-06T20:33:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeSmokeTestTwo -->
+      </class> <!-- com.aamirsuhail.EmployeeSmokeTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
